@@ -1,9 +1,10 @@
 # Modelo Predictivo Cancelaciones Hotel
 
+### Proyecto ML
 
 ![img](https://raw.githubusercontent.com/LLR-Laura/ML_Prediccion_Cancelaciones/master/img_hotel.png)
 
-Laura Ledo | Proyecti ML Julio 2022
+Laura Ledo | Julio 2022
 
 -----
 Las cancelaciones de habitaciones tienen un impacto muy negativo en los hoteles: si la habitación cancelada no se consigue ocupar, el establecimiento pierde ese ingreso, pero mantiene todos los costes asociados a dicha habitación. 
