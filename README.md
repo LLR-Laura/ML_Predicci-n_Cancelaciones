@@ -13,6 +13,7 @@ Desde la aparición y expansión de las OTAs en el sector, la posibilidad de rea
 
 El objetivo de este proyecto es crear un modelo predictivo que, dada una reserva, consiga predecir con alta fiabilidad si esa reserva va a ser cancelada o no. Para ello, crearemos un modelo de clasificación binario que clasifique cada reserva introducida en el modelo como:
 
+| **Target**|
 |:---|:---|
 | 1 | La reserva va a ser cancelada |
 | 0 | La reserva no va a ser cancelada |
