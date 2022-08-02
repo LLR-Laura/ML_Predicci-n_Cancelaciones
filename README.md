@@ -3,7 +3,7 @@
 ### Proyecto ML
 -----
 
-![img]("https://raw.githubusercontent.com/LLR-Laura/ML_Cancelaciones_Hotel/master/img_rm.png")
+![img]("https://raw.githubusercontent.com/LLR-Laura/ML_Prediccion_Cancelaciones/master/img_rm.png")
 Laura Ledo | Julio 2022
 
 
